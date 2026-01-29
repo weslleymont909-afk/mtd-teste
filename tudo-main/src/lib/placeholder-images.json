@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-people",
+      "description": "Duas pessoas sorrindo — campanha institucional",
+      "imageUrl": "https://i.postimg.cc/dQjKSYL1/ea3b1479-a36c-4b2a-bcee-9a3514dd5ed3.png",
+      "imageHint": "people smiling"
+    },
+    {
+      "id": "signup-hero",
+      "description": "Mulher sorrindo em um ambiente de escritório casual",
+      "imageUrl": "https://i.postimg.cc/qRf2Q6mn/Captura-de-tela-2026-01-03-214452.png",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "face-validation-info",
+      "description": "Illustration for face validation screen",
+      "imageUrl": "https://images.unsplash.com/photo-1639503547276-90230c4a4198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzZWN1cml0eSUyMGlsbHVzdHJhdGlvbnxlbnwwfHx8fDE3NjkwMjI4MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security illustration"
+    },
+    {
+      "id": "inss-woman-smiling",
+      "description": "Senhora sorrindo",
+      "imageUrl": "https://i.postimg.cc/NfsY3xkb/page-loans-products-2-16928bc26588dfa6f43d3b52ba897c70.webp",
+      "imageHint": "senior woman smiling"
+    },
+    {
+      "id": "offer-fgts-woman",
+      "description": "Woman smiling",
+      "imageUrl": "https://i.postimg.cc/kGFJx1FM/page-loans-products-ary-1-358948d0f718d8d679a663852042018e.webp",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "offer-portability-woman",
+      "description": "Mulher sorrindo olhando para o celular",
+      "imageUrl": "https://i.postimg.cc/8CjLtWYk/page-loans-products-7-b81bbb41ab61449366cec3d563ff5905.webp",
+      "imageHint": "woman with phone"
+    },
+    {
+      "id": "allianz-logo",
+      "description": "Allianz Logo",
+      "imageUrl": "https://i.postimg.cc/RVjh7PYS/allianz-logo.png",
+      "imageHint": "logo brand"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Avatar de cliente para depoimento",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMGZhY2V8ZW58MHx8fHwxNzY5MDMwMTQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman face"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Avatar de cliente para depoimento",
+      "imageUrl": "https://i.postimg.cc/KzByt21j/Captura-de-tela-2026-01-22-194835.png",
+      "imageHint": "man face"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Avatar de cliente para depoimento",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGZhY2V8ZW58MHx8fHwxNzY5MDMwMTQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman face"
+    },
+    {
+      "id": "service-card-image",
+      "description": "Imagem para card de serviço meutudo",
+      "imageUrl": "https://i.postimg.cc/m2ZxHdPs/cartoes-meutudo.webp",
+      "imageHint": "credit card"
+    },
+    {
+      "id": "service-portability-illustration",
+      "description": "Ilustração para serviço de portabilidade",
+      "imageUrl": "https://i.postimg.cc/zvm75Kj2/page-sobre-section-2-96557ed79e747ea16c933e943f2c2a01.webp",
+      "imageHint": "money savings"
+    }
+  ]
+}
